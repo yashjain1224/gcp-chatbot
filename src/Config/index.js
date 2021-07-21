@@ -1,5 +1,5 @@
 export default {
-    API_URL: 'https://gcp-demo-319814.uc.r.appspot.com/', // <- enter your API URL here
+    API_URL: 'https://adani-project-320505.as.r.appspot.com/', // <- enter your API URL here
     muted: false, // <- mute microphone at start
     start_suggestions: [], // <- array of suggestions, displayed at the start screen
     fallback_lang: 'en', // <- fallback language code, if history mode or network is unavailable
